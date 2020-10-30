@@ -1,0 +1,25 @@
+.footer {
+  background-color: #2c2b2b;
+  height: 240px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+  
+
+.footer i {
+  color: #1edd88;
+}
+
+.footer p {
+  color: #6B6C6C;
+}
+
+.footer p i {
+  color: red;
+}
+
+.footer .list-inline {
+  padding: 0px 5px;
+  font-size: 32px;
+}
